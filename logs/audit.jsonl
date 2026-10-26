@@ -1,0 +1,7 @@
+{"id":"669890d2-6abc-4bac-98f0-3eacd89c4bba","actor":"analyst","action":"events.delete_all","targetType":"event_logs","targetId":"all","result":"success","createdAt":"2026-10-26T16:24:16.783Z","details":"All event JSONL files; removed 3576"}
+{"id":"45f8d3ab-9457-4550-9b32-4a475a1d537c","actor":"analyst","action":"alerts.delete_all","targetType":"alerts","targetId":"all","result":"success","createdAt":"2026-10-26T16:28:15.396Z","details":"All alerts; removed 19"}
+{"id":"514751bc-84c9-455b-8e83-eab9eb434b34","actor":"analyst","action":"events.delete_all","targetType":"event_logs","targetId":"all","result":"success","createdAt":"2026-10-26T16:28:23.764Z","details":"All event JSONL files; removed 4"}
+{"id":"e8bc58cd3a8f3cda5a2a5a1d","actor":"analyst","action":"alert.false_positive","targetType":"alert","targetId":"ea878990c44202dd93f375bc","result":"success","createdAt":"2026-10-26T16:39:37.876Z","details":"false positive"}
+{"id":"31600b2d7deaf0ca7e5c26d9","actor":"analyst","action":"alert.resolve","targetType":"alert","targetId":"ea878990c44202dd93f375bc","result":"success","createdAt":"2026-10-26T16:40:00.316Z","details":"nothing there"}
+{"id":"6c5e11884e3bca340259e695","actor":"analyst","action":"alert.resolve","targetType":"alert","targetId":"f73a16bf4ca8ba8a7d389295","result":"success","createdAt":"2026-10-26T16:40:23.012Z","details":"asd"}
+{"id":"fd8795c12499647f8f41b2d4","actor":"analyst","action":"alert.resolve","targetType":"alert","targetId":"ea878990c44202dd93f375bc","result":"success","createdAt":"2026-10-26T18:00:16.660Z","details":"jhsja"}
